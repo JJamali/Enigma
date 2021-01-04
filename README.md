@@ -1,3 +1,3 @@
 # Enigma
 
-Program that emulates the German Enigma machine from WWII. 
+https://github.com/JJamali/Enigma/blob/main/README.md
